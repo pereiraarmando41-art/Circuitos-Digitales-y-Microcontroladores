@@ -1,0 +1,27 @@
+# --- Microchip / Atmel Studio ---
+Debug/
+Release/
+*.elf
+*.hex
+*.eep
+*.lss
+*.lst
+*.map
+*.o
+*.srec
+*.atsuo
+.vs/
+
+# --- Proteus ISIS / VSM ---
+*.pdsprj.P*
+*.pdsprj.*.workspace
+Project Backups/
+SCRIPTS/
+PWRRAILS.DAT
+*.CDB
+*.DSN.bak
+
+# --- Sistema Operativo y Editor ---
+.DS_Store
+Thumbs.db
+*.swp
