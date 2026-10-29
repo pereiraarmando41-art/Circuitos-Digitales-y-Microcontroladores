@@ -29,7 +29,7 @@ Desarrollo del firmware para un sistema de visualización que gestiona tres sali
 ---
 
 ## 📐 Memoria de Cálculo
-- **Cálculo de Resistencias Limitadoras:** La deducción matemática para la limitación de corriente a 10mA según la caída de tensión $V_{LED}$ de cada color está detallada en el documento [Calculo_Resistencias_LEDs.pdf](./docs/Cálculo de resistencia serie.pdf).
+- **Cálculo de Resistencias Limitadoras:** La deducción matemática para la limitación de corriente a 10mA según la caída de tensión $V_{LED}$ de cada color está detallada en el documento [Cálculo de resistencia serie.pdf](./docs/Cálculo de resistencia serie.pdf).
 
 ---
 
