@@ -24,8 +24,8 @@ Sistema de control de intensidad y color para un LED RGB de Ánodo Común. El LE
 
 ---
 
-## 📄 Consigna Oficial
-El enunciado completo y las especificaciones de evaluación de la cátedra se encuentran en [docs/tp4-2026_entregable.pdf](./docs/tp4-2026_entregable.pdf).
+## 📄 Consigna Oficial y Documentación
+- **Enunciado del Trabajo Práctico:** La consigna oficial y la guía conceptual de evaluación se encuentran en [docs/tp04-2026_completo.pdf](./docs/tp04-2026_completo.pdf).
 
 ---
 
