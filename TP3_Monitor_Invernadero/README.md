@@ -31,9 +31,8 @@ Utiliza una arquitectura del tipo **Background/Foreground** para la gestión de 
 
 ---
 
-## 📄 Consigna Oficial
-El enunciado completo y las especificaciones de evaluación de la cátedra se encuentran en [docs/tp3-2026_entregable.pdf](./docs/tp3-2026_entregable.pdf).
-
+## 📄 Consigna Oficial y Documentación
+- **Enunciado del Trabajo Práctico:** La consigna oficial y las especificaciones de evaluación de la cátedra se encuentran en [docs/tp03-2026-entregable.pdf](./docs/tp03-2026-entregable.pdf).
 ---
 
 ## 📂 Estructura del TP
