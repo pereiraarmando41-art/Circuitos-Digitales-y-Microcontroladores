@@ -10,6 +10,7 @@ La arquitectura de software se basa en una **Máquina de Estados Finitos (MEF) p
 ## 🔄 Arquitectura del Software (MEF)
 
 ![Diagrama de Estados MEF - Microondas](./docs/img/DiagramaDeEstados.png)
+
 *Figura 1: Diagrama de transiciones de estado de la MEF.*
 
 ---
