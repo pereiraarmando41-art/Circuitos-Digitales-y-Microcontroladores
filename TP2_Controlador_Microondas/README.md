@@ -38,8 +38,7 @@ La arquitectura de software se basa en una **Máquina de Estados Finitos (MEF) p
 
 ---
 
-## 📐 Memoria de Cálculo
-- **Cálculo de Resistencias Limitadoras:** La deducción matemática para la limitación de corriente a 10mA según la caída de tensión $V_{LED}$ de cada color está detallada en el documento [Calculo_Resistencias_LEDs.pdf](./docs/Calculo_Resistencias_LEDs.pdf).
+> 📐 **Memoria de Cálculo:** La deducción técnica y los cálculos para fijar la corriente de los LEDs a 10mA están detallados en [docs/Cálculo de resistencia serie.pdf](./docs/Cálculo%20de%20resistencia%20serie.pdf).
 
 ---
 
